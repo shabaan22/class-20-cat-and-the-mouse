@@ -1,1 +1,2 @@
-# class-20-cat-and-the-mouse
+# Cat-and-mouse-class20
+Cat chasing mouse and mouse teasing cat
